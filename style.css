@@ -1,0 +1,20 @@
+h1, p {
+  font-family: Lato;
+}
+
+.rv-xy-plot__axis__tick__text {
+  word-spacing: 20px
+}
+.rv-xy-plot__grid-lines__line{
+  /* stroke: #f1f1f1 !important */
+}
+
+/* .topms{
+ fill:#DCDCDC
+} */
+
+.rv-xy-plot__axis__line {
+    fill: none;
+    stroke-width: .24px !important;
+    stroke: #e9e9e9 !important;
+}
