@@ -181,7 +181,7 @@ class App extends Component {
               obj.subCategory.map(sub => (
                 <HorizontalBarSeries
                   barWidth={0.105}
-                  data={[{ x: 20, y: sub.y }]}
+                  data={[{ x: sub.x, y: sub.y }]}
                 />
               ))
             )}
