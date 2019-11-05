@@ -163,7 +163,7 @@ class App extends Component {
             width={600}
             height={300}
             yType="ordinal"
-            margin={{ left: 90, top: 10, bottom: 10, right: 50 }}
+            margin={{ left: 90, top: 20, bottom: 20, right: 50 }}
             xType="linear"
             stackBy="x"
           >
